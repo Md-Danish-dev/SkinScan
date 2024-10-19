@@ -1,6 +1,7 @@
 import Navbar from "../HomePage/Navbar";
 import Paper from '@mui/material/Paper';
 import { styled } from '@mui/material/styles';
+import Footer from "../Footer/Footer";
 
 export default function Blog() {
     const class_names = [
@@ -43,7 +44,7 @@ export default function Blog() {
         <div>
             <Navbar />
             {/* Add padding-top to avoid content being hidden behind the navbar */}
-            <div className="">
+            <div className="mt-16">
                 <header className="text-center py-8 bg-gray-900">
                     <h1 className="text-4xl font-bold text-white">About our Health-Tech Project</h1>
                 </header>
@@ -78,6 +79,7 @@ export default function Blog() {
                     </div>
                 </div>
             </div>
+            <Footer />
         </div>
     );
 }
