@@ -7,7 +7,7 @@ const AboutUs = () => {
     return (
         <section className=" dark:bg-gray-900 text-white mt-16 pt-4">
             <Navbar />
-            <div className="max-w-4xl mx-auto">
+            <div className="max-w-4xl mx-auto px-6 my-3">
                 <h2 className="text-3xl font-bold text-center mb-6">About Us</h2>
                 <p className="text-lg text-center mb-8">
                     We are a dedicated team of four individuals passionate about leveraging technology to enhance skin health. 
@@ -27,7 +27,7 @@ const AboutUs = () => {
                     </li>
                     <li className="bg-yellow-700 shadow-md p-4 rounded">
                         <strong>Rayyan Khan</strong>: 
-                        <p>Md Danish is a second-year Mechanical Engineering student at IIT Roorkee with a strong interest in software development. They are passionate about integrating technology with engineering principles and enjoy working on coding projects in their free time. As part of our team, Md Danish brings valuable skills and fresh perspectives to our skin disease prediction project.</p>
+                        <p>Rayyan is a mechanical engineering undergraduate with a strong passion for web development, data science, and algorithms. He contributed to the front-end development of this project.</p>
                     </li>
                     <li className="bg-yellow-700 shadow-md p-4 rounded">
                         <strong>Aakash</strong>: 

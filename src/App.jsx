@@ -5,6 +5,8 @@ import './App.css'
 import Home from './components/HomePage/Home'
 import Blog from './components/Blog/Blog'
 import AboutUs from './components/AboutUs/AboutUs'
+import UploadPhoto from './components/UploadPhotoSection/UploadPhoto'
+import ChatBox from './components/ChatBot/ChatBox'
 
 function App() {
 
@@ -16,6 +18,8 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/Blog" element={<Blog />} />
             <Route path="/AboutUs" element={<AboutUs />} />
+            <Route path="/UploadPhoto" element={<UploadPhoto />} />
+            <Route path="/ChatBox" element={<ChatBox />} />
           </Routes>
       </Router>
     </>
