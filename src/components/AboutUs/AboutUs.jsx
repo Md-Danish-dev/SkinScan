@@ -19,19 +19,20 @@ const AboutUs = () => {
                     <li className="bg-yellow-700 shadow-md p-4 rounded">
                         <strong>Md Danish </strong>:
                         <br />
-                        <p>Md Danish is a second-year Mechanical Engineering student at IIT Roorkee with a strong interest in software development. They are passionate about integrating technology with engineering principles and enjoy working on coding projects in their free time. As part of our team, Md Danish brings valuable skills and fresh perspectives to our skin disease prediction project.</p>
+                        <p>Md Danish is  second-year Mechanical Engineering student at IIT Roorkee who is passionate about software development and data science. With experience in leading teams and working on software projects, He bring a strong blend of leadership and technical skills to our skin disease prediction initiative.
+                        </p>
                     </li>
                     <li className="bg-yellow-700 shadow-md p-4 rounded">
                         <strong>Deepak Bhagat </strong>: 
-                        <p>Md Danish is a second-year Mechanical Engineering student at IIT Roorkee with a strong interest in software development. They are passionate about integrating technology with engineering principles and enjoy working on coding projects in their free time. As part of our team, Md Danish brings valuable skills and fresh perspectives to our skin disease prediction project.</p>
+                        <p>Md Danish is a second-year Mechanical Engineering student at IIT Roorkee with a strong interest in software development and Data science. They are passionate about integrating technology with engineering principles and enjoy working on coding projects in their free time. As part of our team, Md Danish brings valuable skills and fresh perspectives to our skin disease prediction project.</p>
                     </li>
                     <li className="bg-yellow-700 shadow-md p-4 rounded">
                         <strong>Rayyan Khan</strong>: 
                         <p>Rayyan is a mechanical engineering undergraduate with a strong passion for web development, data science, and algorithms. He contributed to the front-end development of this project.</p>
                     </li>
                     <li className="bg-yellow-700 shadow-md p-4 rounded">
-                        <strong>Aakash</strong>: 
-                        <p>Md Danish is a second-year Mechanical Engineering student at IIT Roorkee with a strong interest in software development. They are passionate about integrating technology with engineering principles and enjoy working on coding projects in their free time. As part of our team, Md Danish brings valuable skills and fresh perspectives to our skin disease prediction project.</p>
+                        <strong>Aakash Raj</strong>: 
+                        <p>Aakash Raj is a Mechanical Engineering sophomore at Indian Institute of Technology, Roorkee. Deeply interested and curious about technology and AI revolution going around the world. He has contibuted in training the model using CNN.</p>
                     </li>
                 </ul>
 
